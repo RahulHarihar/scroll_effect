@@ -131,17 +131,17 @@ logo {
 
 .row:nth-child(2) .img {
 	position: relative;
-	left: 40%;
+	left: 70%;
 }
 
 .row:nth-child(3) .img {
 	position: relative;
-	left: 50%;
+	left: 10%;
 }
 
 .row:nth-child(4) .img {
 	position: relative;
-	left: 70%;
+	left: 50%;
 }
 
 .row:nth-child(6) .img {
